@@ -24,7 +24,7 @@ dependencies:
   intl: ^0.17.0
   flutter_ffmpeg: ^0.4.0
   stomp_dart_client: ^0.4.3
-  dio: ^4.0.0
+  dio: ^5.0.3
   flutter_mobx: ^2.0.0
   mobx: ^2.0.1
   flutter_modular: ^3.3.0
@@ -32,8 +32,8 @@ dependencies:
   youtube_explode_dart: ^1.9.9
   downloads_path_provider: ^0.1.0 
   permission_handler: ^8.1.2
-  path: ^1.7.0
-  youtube_api: ^0.8.0
+  path: ^1.8.2
+  youtube_api: ^1.0.4
   assets_audio_player: ^3.0.3+3
   flutter_typeahead: ^3.1.3
   
